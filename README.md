@@ -1,4 +1,4 @@
-# differential pressure sensor breakout for Arduino/Raspberry Pi
+# Differential pressure sensor breakout for Arduino/Raspberry Pi
 
 ### How to use this breakout board with raspberry pi?
 
