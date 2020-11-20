@@ -4,12 +4,12 @@
 
 ### With Arduino
 
-<img src="images/diff_pressure_arduino.png" />
+<img src="images/diff_pressure_arduino.png" width="700" height="400" />
 
 * Now upload arduino code to see output on serial terminal. 
 
 ### With Raspberry Pi
-<img src="images/diff_pressure_raspberry.png" />
+<img src="images/diff_pressure_raspberry.png" width="600" height="400" />
 
 ### How to use this breakout board with raspberry pi?
 
