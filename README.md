@@ -2,6 +2,8 @@
 
 Differential Pressure Sensor is the latest technology in the range of SB Component products that comprises NXP's MPXV5010DP that is an Integrated Silicon Pressure Sensor On-Chip Signal Conditioned, Temperature Compensated, and Calibrated.
 
+<img src="images/product_img1.png" width="400" height="300" /><img src="images/product_img2.png" width="400" height="300" />
+
 ## Circuit Diagram
 
 ### With Arduino
