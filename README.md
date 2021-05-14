@@ -28,5 +28,5 @@ Differential Pressure Sensor is the latest technology in the range of SB Compone
     cd Differential-Pressure-Sensor-Breakout
     cd Python
     python3 diff_pressure.py
-    ```
+
 
