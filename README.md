@@ -24,7 +24,9 @@ Differential Pressure Sensor is the latest technology in the range of SB Compone
 
 * Now clone this repository and run python file on python3 to see output of this breakout board on raspberry pi python shell or on terminal.
 
-``` cd Differential-Pressure-Sensor-Breakout
+``` 
+    cd Differential-Pressure-Sensor-Breakout
     cd Python
-    python3 diff_pressure.py```
+    python3 diff_pressure.py
+    ```
 
